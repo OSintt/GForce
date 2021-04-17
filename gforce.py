@@ -1,7 +1,7 @@
 #===== G-Force Gmail Password Cracker
 #===== O$int#0800
-#===== ZedSquad
-#===== https://zedsquad.tk/
+#===== HkerShit
+#===== 12/2020
 #====================================
 
 #<--------------Imports Start & Loading Start-------------->
@@ -363,7 +363,7 @@ def reversebf():
 #<--------------Menu-------------->
 def menu():
     clear()
-    os.system('@title G-Force Gmail Password Cracker by O$int #ZedSquad')
+    os.system('@title G-Force Gmail Password Cracker by O$int #HackerSquad')
     banner()
     print("")
     print(f"{Fore.LIGHTYELLOW_EX}[{Fore.RESET}${Fore.LIGHTYELLOW_EX}]     Dev:{Fore.RESET} O{Fore.LIGHTRED_EX}${Fore.RESET}int <3")
